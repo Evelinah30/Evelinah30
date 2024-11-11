@@ -3,12 +3,13 @@ I'm Evelin, and I'm passionate about data analysis. This repository allows me to
 
 
 ## Tools
-- **Slack**: Work management.
-- **Monday**: Work management.
-- **Braze**: Data extraction.
-- **SQL**: Data analysis. (Snowflake, Databricks, Aws Athena)
-- **Power BI**: Data visualization.
-- **Phyton**: Exploratory Data Analysis (EDA) to inspect, summarize, and visualize data.
+- **Slack**: Team communication and collaboration.
+- **Monday**: Project and task management.
+- **Braze**: Data extraction and campaign analysis.
+- **SQL**: Data analysis using Snowflake, Databricks, and AWS Athena
+- **Power BI**: Data visualization and reporting.
+- **Phyton**: Exploratory Data Analysis (EDA) for data inspection, summarization, and visualization.
+
 
 
 <!--
